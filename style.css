@@ -959,7 +959,7 @@ font-size:calc(32px + 12 * ((100vw - 768px) / (1920 - 768)));
 }
 #fullScreenDiv {
 min-height: 165vh;
-background-image: url(img/Smokebginsteadvid.webp);
+background-image: url(img/Smokebginsteadvid.jpg);
 background-size: cover;
 background-repeat: no-repeat;
 }
